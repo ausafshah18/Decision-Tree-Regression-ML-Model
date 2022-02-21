@@ -1,2 +1,2 @@
 # Decision-Tree-Regression-ML-Model
-This Machine Learning model predicts Salary of an employee based on this Level
+This Machine Learning model predicts Salary of an employee based on the Level
